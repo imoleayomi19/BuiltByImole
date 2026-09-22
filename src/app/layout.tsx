@@ -14,7 +14,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/builtbyimole-logo.svg" type="image/svg+xml" />
+        <link rel="icon" href="/builtbyimole-logo.svg" type="image/dp.png" />
       </head>
 
       <body>{children}</body>
